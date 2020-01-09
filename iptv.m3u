@@ -43,8 +43,6 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accessto
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000104.m3u8
 #EXTINF:-1,湖北卫视高清
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000109.m3u8
-#EXTINF:-1,陶瓷频道高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000136.m3u8
 #EXTINF:-1,辽宁卫视高清
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000147.m3u8
 #EXTINF:-1,广东卫视高清
@@ -69,9 +67,7 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accessto
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000038.m3u8
 #EXTINF:-1,天津卫视
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000079.m3u8
-#EXTINF:-1,新视觉高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000114.m3u8
-#EXTINF:-1,金鹰卡通
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000041.m3u8
+#EXTINF:-1 ,山东卫视高清
+http://vss.cbnmtv.com/live/yt_shandongweishi_h_1.m3u8?channelid=yt_shandongweishi_h
 #EXTINF:-1,魅力音乐高清
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000117.m3u8
