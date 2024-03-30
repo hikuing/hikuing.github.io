@@ -10,6 +10,10 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed; */
 	background-color: #88ada6;
+	background-image: url("/img/bg.texture-58Pqblmy.png");
+	background-repeat: repeat repeat-x;
+	background-size: auto, auto 1.5rem;
+	background-attachment: fixed;
 }
 
 /*百度搜索*/
