@@ -42,13 +42,13 @@
 				"iconPath": "static/tabbar/grid.png",
 				"selectedIconPath": "static/tabbar/grid-active.png",
 				"text": "更多"
-			},
-			{
-				"pagePath": "pages/news/news",
-				"iconPath": "static/tabbar/news.png",
-				"selectedIconPath": "static/tabbar/news-active.png",
-				"text": "资讯"
 			}
+			// {
+			// 	"pagePath": "pages/news/news",
+			// 	"iconPath": "static/tabbar/news.png",
+			// 	"selectedIconPath": "static/tabbar/news-active.png",
+			// 	"text": "资讯"
+			// }
 		]
 	},
 	"globalStyle": {
