@@ -140,7 +140,7 @@
 				if (history) {
 					history = JSON.parse(history)
 					// 最多记录4条历史记录
-					if (history.length > 4) {
+					if (history.length >= 4) {
 						history.pop()
 					}
 					const index = history.findIndex((i) => i.url === item.url)
