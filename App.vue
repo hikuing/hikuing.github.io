@@ -15,15 +15,14 @@
 	page {
 		height: 100%;
 		width: 100%;
-		background-color: #f8f8f8;
-		background-image: url('/static/bg2.jpg');
-		background-repeat: repeat;
-		background-size: 100% 100%;
-		background-attachment: fixed;
+		background-color: #355c7d;
+		// background-image: url('/static/bg2.jpg');
+		// background-size: 100% 100%;
 
-		// background-image: url('/static/bg.png');
-		// background-repeat: repeat;
-		// background-size: auto;
-		// background-attachment: fixed;
+		background-image: url('/static/bg.png');
+		background-size: auto;
+
+		background-repeat: repeat;
+		background-attachment: fixed;
 	}
 </style>
